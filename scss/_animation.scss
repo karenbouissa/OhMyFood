@@ -1,0 +1,40 @@
+//ANIMATION DU LOADER (ROTATION)
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+//CACHER LE LOADER
+@keyframes hide-loader {
+  to {
+    opacity: 0;
+  }
+}
+
+//REDUIRE LA TAILLE DU PLAT POUR FAIRE APPARAITRE LE CHECK
+@keyframes show_check {
+  from {
+    border-radius: 15px;
+  }
+
+  to {
+    border-radius: 15px 0 0 15px;
+  }
+}
+//ROTATION DU CHECK
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+//ANIMATION APPARITION PROGRESSIVE DES MENUS
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
