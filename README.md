@@ -1,5 +1,5 @@
 # OH MY FOOD
-![screenshot](https://github.com/karenbouissa/OhMyFood/assets/127218821/734b450c-c4d1-4804-b677-032794cfc324)
+![screenshot](https://github.com/karenbouissa/OhMyFood/assets/127218821/aee43da7-b565-4ef7-bfb3-e68a3f25f918)
 
 # FRANÇAIS
 
@@ -11,7 +11,7 @@ Le projet OhMyFood a été développé en utilisant les technologies suivantes :
 - HTML5
 - CSS3
 - Sass
-Visiter le site web : 
+Visiter le site web :https://karenbouissa.github.io/OhMyFood/
 
 # ENGLISH
 
@@ -22,4 +22,4 @@ The OhMyFood project has been developed using the following technologies:
 - HTML5
 - CSS3
 - Sass
-Visit the website :
+Visit the website : https://karenbouissa.github.io/OhMyFood/
