@@ -22,4 +22,5 @@ The OhMyFood project has been developed using the following technologies:
 - HTML5
 - CSS3
 - Sass
+  
 Visit the website : https://karenbouissa.github.io/OhMyFood/
